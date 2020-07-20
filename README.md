@@ -41,8 +41,8 @@ The purpose of this analysis is to use Citi Bike's data to generate interactive 
 ---
 
 ### Data collected:
-![](screenshots/stations.png)
-![](screenshots/genders.png)
-![](screenshots/tripduration.png)
-![](screenshots/birthyear.png)
-![](screenshots/memberships.png)
+![](dashboard_screenshots/stations.png)
+![](dashboard_screenshots/genders.png)
+![](dashboard_screenshots/tripduration.png)
+![](dashboard_screenshots/birthyear.png)
+![](dashboard_screenshots/memberships.png)
