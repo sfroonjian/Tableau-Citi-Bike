@@ -3,8 +3,8 @@
 ---
 
 ### Purpose of this analysis:
-The purpose of this analysis is to use Citi Bike's data to generate interactive visuals on Tableau to try to improve the program.
-
+Citi Bike has been around since 2013. The company has generated an enormous amount of data since then, and has made that data publicly available. The purpose of this analysis is to use their data to generate interactive visuals on Tableau to try to find trends to improve the program even more. However, because there is so much data, and Tableau can only handle about 1,000,000 rows, extensive data cleaning and aggregation first had to be performed in order to condense the data into the exact format that was needed for the Tableau charts. This was done using Python and Pandas on Jupyter Notebook.
+                    
 ---
 
 **Station Data:**
@@ -41,8 +41,8 @@ The purpose of this analysis is to use Citi Bike's data to generate interactive 
 ---
 
 ### Data collected:
-![](screenshots/stations.png)
-![](screenshots/genders.png)
-![](screenshots/tripduration.png)
-![](screenshots/birthyear.png)
-![](screenshots/memberships.png)
+![](dashboard_screenshots/stations.png)
+![](dashboard_screenshots/genders.png)
+![](dashboard_screenshots/tripduration.png)
+![](dashboard_screenshots/birthyear.png)
+![](dashboard_screenshots/memberships.png)
